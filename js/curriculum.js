@@ -483,7 +483,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Analysis of Financial Statements",
-        "table_id": "",
+        "table_id": "accountancy_analysis_statements_12_quiz",
         "section": "Commerce"
       },
       {
