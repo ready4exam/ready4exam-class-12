@@ -161,7 +161,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Chemistry in Everyday Life",
-        "table_id": "",
+        "table_id": "chemistry_chemistry_life_12_quiz",
         "section": "Science"
       }
     ]
