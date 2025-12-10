@@ -89,7 +89,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Solutions",
-        "table_id": "",
+        "table_id": "chemistry_solutions_solutions_12_quiz",
         "section": "Science"
       },
       {
