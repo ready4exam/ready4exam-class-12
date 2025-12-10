@@ -588,7 +588,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Balance of Payments",
-        "table_id": "",
+        "table_id": "economics_balance_payments_12_quiz",
         "section": "Commerce"
       }
     ],
