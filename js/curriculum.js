@@ -124,7 +124,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Coordination Compounds",
-        "table_id": "",
+        "table_id": "chemistry_coordination_compounds_12_quiz",
         "section": "Science"
       }
     ],
