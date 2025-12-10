@@ -70,7 +70,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Semiconductor Electronics",
-        "table_id": "",
+        "table_id": "physics_semiconductor_electronics_12_quiz",
         "section": "Science"
       },
       {
