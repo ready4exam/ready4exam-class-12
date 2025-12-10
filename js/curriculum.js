@@ -84,7 +84,7 @@ export const curriculum = {
     "Chemistry Part I": [
       {
         "chapter_title": "The Solid State",
-        "table_id": "",
+        "table_id": "chemistry_solid_state_12_quiz",
         "section": "Science"
       },
       {
