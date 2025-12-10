@@ -50,7 +50,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Wave Optics",
-        "table_id": "",
+        "table_id": "physics_wave_optics_12_quiz",
         "section": "Science"
       },
       {
