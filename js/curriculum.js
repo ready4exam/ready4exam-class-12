@@ -146,7 +146,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Amines",
-        "table_id": "",
+        "table_id": "chemistry_amines_amines_12_quiz",
         "section": "Science"
       },
       {
