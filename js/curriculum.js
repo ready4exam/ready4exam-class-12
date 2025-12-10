@@ -109,7 +109,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "General Principles and Processes of Isolation of Elements",
-        "table_id": "",
+        "table_id": "chemistry_general_elements_12_quiz",
         "section": "Science"
       },
       {
