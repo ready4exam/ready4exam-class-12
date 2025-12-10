@@ -311,7 +311,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Linear Programming",
-        "table_id": "",
+        "table_id": "mathematics_linear_programming_12_quiz",
         "section": "Science/Commerce"
       },
       {
