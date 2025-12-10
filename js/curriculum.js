@@ -274,7 +274,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Continuity and Differentiability",
-        "table_id": "",
+        "table_id": "mathematics_continuity_differentiability_12_quiz",
         "section": "Science/Commerce"
       },
       {
