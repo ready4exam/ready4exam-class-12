@@ -284,7 +284,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Integrals",
-        "table_id": "",
+        "table_id": "mathematics_integrals_integrals_12_quiz",
         "section": "Science/Commerce"
       },
       {
