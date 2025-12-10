@@ -279,7 +279,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Applications of Derivatives",
-        "table_id": "",
+        "table_id": "mathematics_applications_derivatives_12_quiz",
         "section": "Science/Commerce"
       },
       {
