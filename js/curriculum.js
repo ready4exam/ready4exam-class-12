@@ -294,7 +294,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Differential Equations",
-        "table_id": "",
+        "table_id": "mathematics_differential_equations_12_quiz",
         "section": "Science/Commerce"
       }
     ],
