@@ -259,7 +259,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Inverse Trigonometric Functions",
-        "table_id": "",
+        "table_id": "mathematics_inverse_functions_12_quiz",
         "section": "Science/Commerce"
       },
       {
