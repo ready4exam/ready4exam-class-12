@@ -583,7 +583,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Government Budget and the Economy",
-        "table_id": "",
+        "table_id": "economics_government_economy_12_quiz",
         "section": "Commerce"
       },
       {
