@@ -578,7 +578,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Determination of Income and Employment",
-        "table_id": "",
+        "table_id": "economics_determination_employment_12_quiz",
         "section": "Commerce"
       },
       {
