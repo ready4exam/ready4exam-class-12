@@ -436,7 +436,7 @@ export const curriculum = {
     "Company Accounts & Partnership Accounting": [
       {
         "chapter_title": "Accounting for Not-For-Profit Organisation",
-        "table_id": "",
+        "table_id": "accountancy_accounting_organisation_12_quiz",
         "section": "Commerce"
       },
       {
