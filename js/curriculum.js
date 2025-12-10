@@ -522,7 +522,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Staffing",
-        "table_id": "",
+        "table_id": "business_staffing_staffing_12_quiz",
         "section": "Commerce"
       },
       {
