@@ -151,7 +151,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Biomolecules",
-        "table_id": "",
+        "table_id": "chemistry_biomolecules_biomolecules_12_quiz",
         "section": "Science"
       },
       {
