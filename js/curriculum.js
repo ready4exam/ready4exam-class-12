@@ -497,7 +497,7 @@ export const curriculum = {
     "Principles & Functions of Management": [
       {
         "chapter_title": "Nature and Significance of Management",
-        "table_id": "",
+        "table_id": "business_nature_management_12_quiz",
         "section": "Commerce"
       },
       {
