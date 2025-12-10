@@ -136,7 +136,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Alcohols, Phenols and Ethers",
-        "table_id": "",
+        "table_id": "chemistry_alcohols_ethers_12_quiz",
         "section": "Science"
       },
       {
