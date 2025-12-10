@@ -104,7 +104,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Surface Chemistry",
-        "table_id": "",
+        "table_id": "chemistry_surface_chemistry_12_quiz",
         "section": "Science"
       },
       {
