@@ -301,7 +301,7 @@ export const curriculum = {
     "Mathematics Part II": [
       {
         "chapter_title": "Vector Algebra",
-        "table_id": "",
+        "table_id": "mathematics_vector_algebra_12_quiz",
         "section": "Science/Commerce"
       },
       {
