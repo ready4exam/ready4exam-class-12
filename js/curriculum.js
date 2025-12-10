@@ -131,7 +131,7 @@ export const curriculum = {
     "Chemistry Part II": [
       {
         "chapter_title": "Haloalkanes and Haloarenes",
-        "table_id": "",
+        "table_id": "chemistry_haloalkanes_haloarenes_12_quiz",
         "section": "Science"
       },
       {
