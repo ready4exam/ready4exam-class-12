@@ -8,7 +8,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Electrostatic Potential and Capacitance",
-        "table_id": "",
+        "table_id": "physics_electrostatic_capacitance_12_quiz",
         "section": "Science"
       },
       {
