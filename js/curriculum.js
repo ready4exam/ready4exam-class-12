@@ -94,7 +94,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Electrochemistry",
-        "table_id": "",
+        "table_id": "chemistry_electrochemistry_electrochemistry_12_quiz",
         "section": "Science"
       },
       {
