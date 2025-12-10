@@ -119,7 +119,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "The d- and f-Block Elements",
-        "table_id": "",
+        "table_id": "chemistry_d_elements_12_quiz",
         "section": "Science"
       },
       {
