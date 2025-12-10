@@ -65,7 +65,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Nuclei",
-        "table_id": "",
+        "table_id": "physics_nuclei_nuclei_12_quiz",
         "section": "Science"
       },
       {
