@@ -114,7 +114,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "The p-Block Elements",
-        "table_id": "",
+        "table_id": "chemistry_p_elements_12_quiz",
         "section": "Science"
       },
       {
