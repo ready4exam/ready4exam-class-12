@@ -141,7 +141,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Aldehydes, Ketones and Carboxylic Acids",
-        "table_id": "",
+        "table_id": "chemistry_aldehydes_acids_12_quiz",
         "section": "Science"
       },
       {
