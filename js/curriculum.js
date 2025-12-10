@@ -568,7 +568,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "National Income Accounting",
-        "table_id": "",
+        "table_id": "economics_national_accounting_12_quiz",
         "section": "Commerce"
       },
       {
