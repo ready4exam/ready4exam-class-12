@@ -75,7 +75,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Communication Systems",
-        "table_id": "",
+        "table_id": "physics_communication_systems_12_quiz",
         "section": "Science"
       }
     ]
