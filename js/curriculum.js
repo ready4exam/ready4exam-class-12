@@ -60,7 +60,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Atoms",
-        "table_id": "",
+        "table_id": "physics_atoms_atoms_12_quiz",
         "section": "Science"
       },
       {
