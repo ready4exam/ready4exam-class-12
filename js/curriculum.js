@@ -573,7 +573,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Money and Banking",
-        "table_id": "",
+        "table_id": "economics_money_banking_12_quiz",
         "section": "Commerce"
       },
       {
