@@ -99,7 +99,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Chemical Kinetics",
-        "table_id": "",
+        "table_id": "chemistry_chemical_kinetics_12_quiz",
         "section": "Science"
       },
       {
