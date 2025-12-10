@@ -289,7 +289,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Applications of Integrals",
-        "table_id": "",
+        "table_id": "mathematics_applications_integrals_12_quiz",
         "section": "Science/Commerce"
       },
       {
