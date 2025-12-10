@@ -254,7 +254,7 @@ export const curriculum = {
     "Mathematics Part I": [
       {
         "chapter_title": "Relations and Functions",
-        "table_id": "",
+        "table_id": "mathematics_relations_functions_12_quiz",
         "section": "Science/Commerce"
       },
       {
