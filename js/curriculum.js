@@ -461,7 +461,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Dissolution of Partnership Firm",
-        "table_id": "",
+        "table_id": "accountancy_dissolution_firm_12_quiz",
         "section": "Commerce"
       }
     ],
