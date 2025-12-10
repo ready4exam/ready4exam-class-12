@@ -563,7 +563,7 @@ export const curriculum = {
     "Introductory Macroeconomics": [
       {
         "chapter_title": "Introduction to Macroeconomics",
-        "table_id": "",
+        "table_id": "economics_introduction_macroeconomics_12_quiz",
         "section": "Commerce"
       },
       {
