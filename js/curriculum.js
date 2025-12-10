@@ -156,7 +156,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Polymers",
-        "table_id": "",
+        "table_id": "chemistry_polymers_polymers_12_quiz",
         "section": "Science"
       },
       {
