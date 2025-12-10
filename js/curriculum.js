@@ -269,7 +269,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Determinants",
-        "table_id": "",
+        "table_id": "mathematics_determinants_determinants_12_quiz",
         "section": "Science/Commerce"
       },
       {
