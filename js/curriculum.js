@@ -446,7 +446,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Change in Profit-Sharing Ratio",
-        "table_id": "",
+        "table_id": "accountancy_change_ratio_12_quiz",
         "section": "Commerce"
       },
       {
