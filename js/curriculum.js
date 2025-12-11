@@ -630,7 +630,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Environment & Sustainable Development",
-        "table_id": "",
+        "table_id": "economics_environment_development_12_quiz",
         "section": "Commerce"
       },
       {
