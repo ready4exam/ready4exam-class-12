@@ -600,7 +600,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Economic Reforms since 1991",
-        "table_id": "",
+        "table_id": "economics_economic_1991_12_quiz",
         "section": "Commerce"
       },
       {
