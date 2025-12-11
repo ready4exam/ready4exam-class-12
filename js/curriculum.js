@@ -620,7 +620,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Employment & Formalisation",
-        "table_id": "",
+        "table_id": "economics_employment_formalisation_12_quiz",
         "section": "Commerce"
       },
       {
