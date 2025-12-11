@@ -615,7 +615,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Rural Development",
-        "table_id": "",
+        "table_id": "economics_rural_development_12_quiz",
         "section": "Commerce"
       },
       {
