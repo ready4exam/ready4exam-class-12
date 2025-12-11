@@ -868,7 +868,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Unity & Diversity",
-        "table_id": "",
+        "table_id": "sociology_unity_diversity_12_quiz",
         "section": "Humanities"
       },
       {
