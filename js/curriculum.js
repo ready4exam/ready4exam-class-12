@@ -878,7 +878,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Population, Health & Environment",
-        "table_id": "",
+        "table_id": "sociology_population_environment_12_quiz",
         "section": "Humanities"
       }
     ],
