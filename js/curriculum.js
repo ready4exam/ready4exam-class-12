@@ -610,7 +610,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Human Capital Formation in India",
-        "table_id": "",
+        "table_id": "economics_human_india_12_quiz",
         "section": "Commerce"
       },
       {
