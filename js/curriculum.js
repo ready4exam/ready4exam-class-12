@@ -863,7 +863,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Cultural Change",
-        "table_id": "",
+        "table_id": "sociology_cultural_change_12_quiz",
         "section": "Humanities"
       },
       {
