@@ -488,7 +488,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Cash Flow Statement",
-        "table_id": "",
+        "table_id": "accountancy_cash_statement_12_quiz",
         "section": "Commerce"
       }
     ]
