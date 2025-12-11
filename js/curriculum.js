@@ -635,7 +635,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Comparative Development – India & Neighbours",
-        "table_id": "",
+        "table_id": "economics_comparative_neighbours_12_quiz",
         "section": "Commerce"
       }
     ]
