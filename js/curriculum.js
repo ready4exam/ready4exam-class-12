@@ -554,7 +554,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Consumer Protection",
-        "table_id": "",
+        "table_id": "business_consumer_protection_12_quiz",
         "section": "Commerce"
       }
     ]
