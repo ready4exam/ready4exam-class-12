@@ -478,7 +478,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Financial Statements of a Company",
-        "table_id": "",
+        "table_id": "accountancy_financial_company_12_quiz",
         "section": "Commerce"
       },
       {
