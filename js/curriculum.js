@@ -625,7 +625,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Infrastructure",
-        "table_id": "",
+        "table_id": "economics_infrastructure_infrastructure_12_quiz",
         "section": "Commerce"
       },
       {
