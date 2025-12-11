@@ -595,7 +595,7 @@ export const curriculum = {
     "Indian Economic Development": [
       {
         "chapter_title": "Development Experience (1947-1990)",
-        "table_id": "",
+        "table_id": "economics_development_1990_12_quiz",
         "section": "Commerce"
       },
       {
