@@ -605,7 +605,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Poverty",
-        "table_id": "",
+        "table_id": "economics_poverty_poverty_12_quiz",
         "section": "Commerce"
       },
       {
