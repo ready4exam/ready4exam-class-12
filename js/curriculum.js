@@ -539,7 +539,7 @@ export const curriculum = {
     "Business Finance and Marketing": [
       {
         "chapter_title": "Financial Management",
-        "table_id": "",
+        "table_id": "business_financial_management_12_quiz",
         "section": "Commerce"
       },
       {
