@@ -185,7 +185,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Reproductive Health",
-        "table_id": "",
+        "table_id": "biology_reproductive_health_12_quiz",
         "section": "Science"
       },
       {
