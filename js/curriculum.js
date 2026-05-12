@@ -517,7 +517,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Organising",
-        "table_id": "",
+        "table_id": "business_organising_organising_12_quiz",
         "section": "Commerce"
       },
       {
