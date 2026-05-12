@@ -245,7 +245,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Environmental Issues",
-        "table_id": "",
+        "table_id": "biology_environmental_issues_12_quiz",
         "section": "Science"
       }
     ]
