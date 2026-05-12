@@ -473,7 +473,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Accounting for Debentures",
-        "table_id": "",
+        "table_id": "accountancy_accounting_debentures_12_quiz",
         "section": "Commerce"
       },
       {
