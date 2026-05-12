@@ -235,7 +235,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Ecosystem",
-        "table_id": "",
+        "table_id": "biology_ecosystem_ecosystem_12_quiz",
         "section": "Science"
       },
       {
