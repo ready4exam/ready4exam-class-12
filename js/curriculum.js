@@ -502,7 +502,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Principles of Management",
-        "table_id": "",
+        "table_id": "business_principles_management_12_quiz",
         "section": "Commerce"
       },
       {
