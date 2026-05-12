@@ -220,7 +220,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Biotechnology: Principles and Processes",
-        "table_id": "",
+        "table_id": "biology_biotechnology_processes_12_quiz",
         "section": "Science"
       },
       {
