@@ -180,7 +180,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Human Reproduction",
-        "table_id": "",
+        "table_id": "biology_human_reproduction_12_quiz",
         "section": "Science"
       },
       {
