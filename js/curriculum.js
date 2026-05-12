@@ -468,7 +468,7 @@ export const curriculum = {
     "Company Accounts & Analysis of Financial Statements": [
       {
         "chapter_title": "Accounting for Share Capital",
-        "table_id": "",
+        "table_id": "accountancy_accounting_capital_12_quiz",
         "section": "Commerce"
       },
       {
