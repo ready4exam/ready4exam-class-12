@@ -13,7 +13,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Current Electricity",
-        "table_id": "",
+        "table_id": "physics_current_electricity_12_quiz",
         "section": "Science"
       },
       {
