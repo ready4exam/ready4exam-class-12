@@ -175,7 +175,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Sexual Reproduction in Flowering Plants",
-        "table_id": "",
+        "table_id": "biology_sexual_plants_12_quiz",
         "section": "Science"
       },
       {
