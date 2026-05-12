@@ -544,7 +544,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Financial Markets",
-        "table_id": "",
+        "table_id": "business_financial_markets_12_quiz",
         "section": "Commerce"
       },
       {
