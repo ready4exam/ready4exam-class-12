@@ -190,7 +190,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Principles of Inheritance and Variation",
-        "table_id": "",
+        "table_id": "biology_principles_variation_12_quiz",
         "section": "Science"
       },
       {
