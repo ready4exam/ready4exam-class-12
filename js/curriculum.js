@@ -23,7 +23,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Magnetism and Matter",
-        "table_id": "",
+        "table_id": "physics_magnetism_matter_12_quiz",
         "section": "Science"
       },
       {
