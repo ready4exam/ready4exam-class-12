@@ -549,7 +549,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Marketing",
-        "table_id": "",
+        "table_id": "business_marketing_marketing_12_quiz",
         "section": "Commerce"
       },
       {
