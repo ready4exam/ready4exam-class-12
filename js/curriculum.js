@@ -215,7 +215,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Microbes in Human Welfare",
-        "table_id": "",
+        "table_id": "biology_microbes_welfare_12_quiz",
         "section": "Science"
       },
       {
