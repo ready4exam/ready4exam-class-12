@@ -441,7 +441,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Fundamentals of Partnership",
-        "table_id": "",
+        "table_id": "accountancy_fundamentals_partnership_12_quiz",
         "section": "Commerce"
       },
       {
