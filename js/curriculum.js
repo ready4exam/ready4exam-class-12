@@ -532,7 +532,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Controlling",
-        "table_id": "",
+        "table_id": "business_controlling_controlling_12_quiz",
         "section": "Commerce"
       }
     ],
