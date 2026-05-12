@@ -205,7 +205,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Human Health and Disease",
-        "table_id": "",
+        "table_id": "biology_human_disease_12_quiz",
         "section": "Science"
       },
       {
