@@ -512,7 +512,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Planning",
-        "table_id": "",
+        "table_id": "business_planning_planning_12_quiz",
         "section": "Commerce"
       },
       {
