@@ -507,7 +507,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Business Environment",
-        "table_id": "",
+        "table_id": "business_business_environment_12_quiz",
         "section": "Commerce"
       },
       {
