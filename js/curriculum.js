@@ -170,7 +170,7 @@ export const curriculum = {
     "Biology": [
       {
         "chapter_title": "Reproduction in Organisms",
-        "table_id": "",
+        "table_id": "biology_reproduction_organisms_12_quiz",
         "section": "Science"
       },
       {
