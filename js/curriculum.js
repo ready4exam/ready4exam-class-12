@@ -230,7 +230,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Organisms and Populations",
-        "table_id": "",
+        "table_id": "biology_organisms_populations_12_quiz",
         "section": "Science"
       },
       {
