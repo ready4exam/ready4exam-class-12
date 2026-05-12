@@ -195,7 +195,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Molecular Basis of Inheritance",
-        "table_id": "",
+        "table_id": "biology_molecular_inheritance_12_quiz",
         "section": "Science"
       },
       {
