@@ -3,7 +3,7 @@ export const curriculum = {
     "Physics Part I": [
       {
         "chapter_title": "Electric Charges and Fields",
-        "table_id": "",
+        "table_id": "physics_electric_fields_12_quiz",
         "section": "Science"
       },
       {
