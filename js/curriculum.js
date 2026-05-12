@@ -28,7 +28,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Electromagnetic Induction",
-        "table_id": "",
+        "table_id": "physics_electromagnetic_induction_12_quiz",
         "section": "Science"
       },
       {
