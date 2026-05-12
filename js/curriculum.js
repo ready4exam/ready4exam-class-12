@@ -456,7 +456,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Retirement and Death of a Partner",
-        "table_id": "",
+        "table_id": "accountancy_retirement_partner_12_quiz",
         "section": "Commerce"
       },
       {
