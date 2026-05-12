@@ -527,7 +527,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Directing",
-        "table_id": "",
+        "table_id": "business_directing_directing_12_quiz",
         "section": "Commerce"
       },
       {
