@@ -38,7 +38,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Electromagnetic Waves",
-        "table_id": "",
+        "table_id": "physics_electromagnetic_waves_12_quiz",
         "section": "Science"
       }
     ],
