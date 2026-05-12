@@ -240,7 +240,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Biodiversity and Conservation",
-        "table_id": "",
+        "table_id": "biology_biodiversity_conservation_12_quiz",
         "section": "Science"
       },
       {
