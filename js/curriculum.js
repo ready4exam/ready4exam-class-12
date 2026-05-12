@@ -210,7 +210,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Strategies for Enhancement in Food Production",
-        "table_id": "",
+        "table_id": "biology_strategies_production_12_quiz",
         "section": "Science"
       },
       {
