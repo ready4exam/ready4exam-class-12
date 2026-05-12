@@ -451,7 +451,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Admission of a Partner",
-        "table_id": "",
+        "table_id": "accountancy_admission_partner_12_quiz",
         "section": "Commerce"
       },
       {
