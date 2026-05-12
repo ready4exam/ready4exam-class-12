@@ -18,7 +18,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Moving Charges and Magnetism",
-        "table_id": "",
+        "table_id": "physics_moving_magnetism_12_quiz",
         "section": "Science"
       },
       {
