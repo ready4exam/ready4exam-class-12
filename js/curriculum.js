@@ -225,7 +225,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Biotechnology and its Applications",
-        "table_id": "",
+        "table_id": "biology_biotechnology_applications_12_quiz",
         "section": "Science"
       },
       {
