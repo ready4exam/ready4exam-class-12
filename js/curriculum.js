@@ -33,7 +33,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Alternating Current",
-        "table_id": "",
+        "table_id": "physics_alternating_current_12_quiz",
         "section": "Science"
       },
       {
