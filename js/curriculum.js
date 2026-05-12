@@ -45,7 +45,7 @@ export const curriculum = {
     "Physics Part II": [
       {
         "chapter_title": "Ray Optics and Optical Instruments",
-        "table_id": "",
+        "table_id": "physics_ray_instruments_12_quiz",
         "section": "Science"
       },
       {
